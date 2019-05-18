@@ -2,7 +2,7 @@
 
 MQTT client for Hubitat
 
-##################################     WORK IN PROGRESS  - AT ANY GIVEN TIME THIS MAY BE BROKEN - ##################################
+################     WORK IN PROGRESS  - AT ANY GIVEN TIME THIS MAY BE BROKEN - ################
 
 NB alpha2a is currently here - the development version will be version alpha3 and will be uploaded shortly
 

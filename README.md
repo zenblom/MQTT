@@ -6,7 +6,7 @@ MQTT client for Hubitat
 
 NB alpha2a is currently here - the development version will be version alpha3 and will be uploaded shortly
 
-NO SUPPORT ON THIS VERSION and do NOT discuss on the Hobitat community
+NO SUPPORT ON THIS VERSION and do NOT discuss on the Hubitat community
 
 Release notes for pre alpha3  
 18th May 2019
